@@ -57,8 +57,8 @@ The core goal was to integrate **Moloch** (now known as [Arkime](https://arkime.
 
 > 📁 Total Files: 7
 
-- 📄 `setup_guide.md` — Step-by-step setup of Moloch and Elastic Stack.
-- 📄 `pcap_samples/` — Contains demo `.pcap` files used during testing.
+- 📄 `Project Report PDF` — Concise Step-by-step Explaination of how project is performed with Conclusion.
+- 📄 `Project PPT` — Contains basic information about the project.
 - 📄 `screenshots` — Visual outputs from Kibana and Moloch Viewer.
 - 📄 `README.md` — You're here.
 

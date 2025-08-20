@@ -53,16 +53,13 @@ The core goal was to integrate **Moloch** (now known as [Arkime](https://arkime.
 
 ---
 
-## 🗂️ **Folder Structure**
+## 🗂️ **Repository Structure**
 
 > 📁 Total Files: 7
 
 - 📄 `setup_guide.md` — Step-by-step setup of Moloch and Elastic Stack.
 - 📄 `pcap_samples/` — Contains demo `.pcap` files used during testing.
-- 📄 `kibana_dashboards.ndjson` — Exported dashboard templates for visualization.
-- 📄 `moloch_config/` — All configuration files for viewer, capture, and Elasticsearch.
-- 📄 `screenshots/` — Visual outputs from Kibana and Moloch Viewer.
-- 📄 `analysis_report.md` — Documented anomalies, threats, and performance issues found.
+- 📄 `screenshots` — Visual outputs from Kibana and Moloch Viewer.
 - 📄 `README.md` — You're here.
 
 Each folder contains its own `README.md` (where required) for context-specific instructions.
@@ -70,8 +67,6 @@ Each folder contains its own `README.md` (where required) for context-specific i
 ---
 
 ## 📸 **Screenshots**
-
-> *Note: Screenshots must be uploaded to GitHub in the `screenshots/` folder.*
 
 - 🖥️ `kibana-dashboard.png` — Overview of active sessions and traffic heatmap.
 - 🧾 `moloch-session-view.png` — Detailed PCAP-level session drilldown.
